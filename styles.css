@@ -251,17 +251,7 @@ section{
     position: static;
     margin-top:3%;
   }
-  
-  .footer-section{
-  z-index: 2;
-  color:#fff;
-  background-color: red;
-  /* background-image: linear-gradient(#4a47a3, #7a85de); */
-  padding:3%;
-  position: relative;
-}
-
-  
+    
   .brand{
     text-align: center;
   }
