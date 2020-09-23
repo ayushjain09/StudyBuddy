@@ -251,4 +251,22 @@ section{
     position: static;
     margin-top:3%;
   }
+  
+  .brand{
+    text-align: center;
+  }
+
+  .social{
+    text-align: center;
+  }
+
+  .footer-images{
+    color: #fff;
+    margin : 1rem 0.7rem;
+  }
+
+  .download{
+    text-align: center;
+  }
+  
 }
